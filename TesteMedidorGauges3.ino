@@ -2,7 +2,7 @@
   Programa: TesteMedidorGauge3.ino
   Funcao..: Módulo medidor de combustivel, com gauge de barra utilizando
             o display tft 24 pol de 320x240.
-  Autor...: Rodrigo R P Lanzarini
+  Autor...: Rodrigo R P Lanzarini AKA Razor
   Data....: 25/Jan/2022
   Versao..: 3
 
